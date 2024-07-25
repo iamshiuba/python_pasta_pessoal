@@ -1,0 +1,19 @@
+[X] VARIAVEIS
+
+[X] TIPOS DE DADOS
+    - int = INTEIROS = 10, 100, -1000, -105
+    - Float = DECIMAIS 10.5, -1000.1
+    - Strings = "Caio", "Pedro", "10", "-10.5"
+    - Bool = True, False
+
+[X] ENTRADA DE DADOS
+
+[X] CONVERSÃO DE DADOS
+
+[X] OPERADORES ARITMÉTICOS [+ - / * // ** %]
+
+[X] OPERADORED RELACIONAIS [> < == >= <= !=]
+
+[X] OPERADORES LÓGICOS [AND OR NOT]
+
+[] ESTRUTURAS DE DECISÃO
